@@ -52,10 +52,10 @@ Un SGBD (Système de Gestion de Bases de Données) est un logiciel qui stocke de
 
 Les bases de données les plus répandues sont :
 
-    Oracle, qui est considéré comme un des SGBDR les plus performants.
-    Microsoft SQL Server, la mouture de microsoft, qui est intégré au framework .NET.
-    mySQL, un logiciel libre fonctionnant souvent de pair avec Apache et Php, et de ce fait très répandu dans la programmation web.
-    Access, incorporé à Microsoft Office. Il présente l’énorme avantage de mettre à disposition de l’utilisateur une interface graphique. En contrepartie il est mono-utilisateur et de faible capacité. 
+Oracle, qui est considéré comme un des SGBDR les plus performants.
+Microsoft SQL Server, la mouture de microsoft, qui est intégré au framework .NET.
+mySQL, un logiciel libre fonctionnant souvent de pair avec Apache et Php, et de ce fait très répandu dans la programmation web.
+Access, incorporé à Microsoft Office. Il présente l’énorme avantage de mettre à disposition de l’utilisateur une interface graphique. En contrepartie il est mono-utilisateur et de faible capacité. 
 
 Dans notre Mini projet nous utilisons MySql pour stoquer les données temporarement aprés la conversion de fichier .
 

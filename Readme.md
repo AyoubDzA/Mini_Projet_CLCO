@@ -20,18 +20,6 @@ est une spécification pour la plate-forme Java d'Oracle, destinée aux applicat
  distribuées et multitiers, et des services web3. La plate-forme se fonde principalement sur des composants
  modulaires exécutés sur un serveur d'applications.
 
-Spring API :
-
-framework Spring est une boite à outils très riche permettant de structurer, d'améliorer et de simplifier 
-l'écriture d'application JEE. Spring est organisé en module
-
-Gestion des instances de classes (JavaBean et/ou métier),
-Programmation orientée Aspect,
-Modèle MVC et outils pour les application WEB,
-Outils pour la DAO (JDBC),
-Outils pour les ORM (Hibernate, iBatis, JPA, ...),
-Outils pour les applications JEE (EJB, JTA, Servlet, JSP, ...),
-
 Pourquoi utiliser le modèle Spring MVC ?
 
 Le modèle MVC vous permet d’être plus efficient en vous donnant la possibilité de réutiliser le même code plusieurs 
@@ -59,10 +47,14 @@ Access, incorporé à Microsoft Office. Il présente l’énorme avantage de met
 
 Dans notre Mini projet nous utilisons MySql pour stoquer les données temporarement aprés la conversion de fichier .
 
-3-La maniére de gestion des demandes des clients :
-pour cette partie on utilise l'architecture client serveur parceque la procedure de conversations des documents et les documents   luis méme sont centralise au niveau du serveur pour que le serveur doit jeres les conversations des client 
+3-La maniére de gestion des demandes des clients :Par les threads 
 
+Thread (de l'anglais qui désigne à l'origine un fil textile) peut faire référence à :
 
+un thread ou fil de discussion : un ensemble de messages sur un forum ou un groupe de discussion sur Internet ;
+un thread ou fil d'exécution : un ensemble d'instructions similaire à un processus en informatique ;
+Threads : un téléfilm britannique de 1984, faux documentaire sur les conséquences d'une éventuelle guerre nucléaire ;
+Thread : un album du groupe japonais 10-FEET (2012).
 
 
 

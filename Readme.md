@@ -5,6 +5,7 @@ Layadi Ahmed
 Aloui Abderrahmane
 
 1-Architecture global de l'application :
+A- cotée client :
 
 Modèle-vue-contrôleur(MVC):
 
@@ -38,6 +39,13 @@ Un autre avantage est le fait qu’il y a peu d’accrochage entre les vues, les
  ce qui vous permet d’avoir un code propre où les fonctions & les classes peuvent être facilement réécrite 
 & optimisé.
 
+B-Coté serveur ou fourniseur de servise :
+
+Java ( pour programmé les web services de notre application) :est un langage de programmation orienté objet créé par James Gosling et Patrick Naughton, employés de Sun Microsystems, avec le soutien de Bill Joy (cofondateur de Sun Microsystems en 1982), présenté officiellement le 23 mai 1995 au SunWorld.
+
+en utilise un framework java pour Converter les documents qui s'appele ASPOSE API 
+
+
 2-Architecture de la Couche Donnée :
 
 SGBD relationalle :
@@ -61,6 +69,14 @@ un thread ou fil de discussion : un ensemble de messages sur un forum ou un grou
 un thread ou fil d'exécution : un ensemble d'instructions similaire à un processus en informatique ;
 Threads : un téléfilm britannique de 1984, faux documentaire sur les conséquences d'une éventuelle guerre nucléaire ;
 Thread : un album du groupe japonais 10-FEET (2012).
+
+4-Les technologies utilisées:
+a- Java Enterprise Edition (JEE) : elle est déja définie au dessus ,avec un serveur local glassfish 5.0
+b- JSTL API : est un framework jee pour facilite les codes de notre pages jsp
+c- ASPOSE API : est un framework java son objectif est pour la conversion des documents d'un type a un autre 
+d- java Mail API :est un framework java pour l'envoie et la reception des mails dans une application java 
+e- Serveur de base de données mySql : pour gérer la base de donnée de notre application
+
 
 
 

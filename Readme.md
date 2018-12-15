@@ -5,6 +5,7 @@ Layadi Ahmed
 Aloui Abderrahmane
 
 1-Architecture global de l'application :
+
 A- cotée client :
 
 Modèle-vue-contrôleur(MVC):
